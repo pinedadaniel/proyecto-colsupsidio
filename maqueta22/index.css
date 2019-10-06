@@ -1,0 +1,42 @@
+.container{
+  background-color: #F7F7F7;
+  height: 100%;
+}
+.content-payments{
+    background-color: white;
+    width: 90%;
+    border-radius: 10px;
+    margin: -50px auto 0 auto;
+    padding: 25px 0;
+    display: grid;
+    height: 320px;
+  box-shadow: -2px 14px 29px 0px #00000023;
+
+}
+.content-loader{
+    width: 100%;
+    height: 1px;
+    text-align: center;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+.content-info-process-pay{
+    height: 50px;
+    width: 100%;
+    margin-top: 0;
+    padding-top: 0;
+    text-align: center;
+}
+.tittle-component-process{
+    color: #001D5F;
+    font-size: 25px;
+    font-weight: 600;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.text-componente-process{
+    color: #001D5F;
+    font-size: 16px;
+    width: 90%;
+    margin: 10px auto;
+
+}

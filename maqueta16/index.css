@@ -1,0 +1,244 @@
+.container{
+    background-color: #F7F7F7;
+  }
+  .content-movements{
+      width: 90%;
+      margin: -50px auto 0 auto;
+      padding: 0px 0 0px 0;  
+      display: grid;
+    box-shadow: -2px 14px 29px 0px #00000023;
+    border-radius: 10px;
+    background-color: white;
+  }
+  .tittle-component{
+text-align: center;
+    width: 100%;
+    color: #001F5B;
+    font-size: 18px;
+    font-weight: 900;
+    padding: 15px 0px;
+  }
+  .content-btns-movements{
+      width: 100%;
+      padding: 0 15px; 
+  }
+  .btn-since{
+      border: solid 1px#001F5B;
+      width: 47%;
+      float: left;
+      background-color: white;
+      height: 47px;
+      border-radius: 4px;
+      margin-bottom: 15px;
+      text-align: left;
+  }
+  .btn-until{
+    border: solid 1px#001F5B;
+    width: 47%;
+    float: right;
+    background-color: white;
+    height: 47px;
+    border-radius: 4px;
+    margin-bottom: 15px;
+    text-align: left;
+}
+  .text-btns{
+      padding-left: 10px;
+      color: #001F5B;
+      font-size: 18px;
+      letter-spacing: 0.17px;
+  }
+  .icon-arrowBot{
+      float: right;
+      padding-right: 5px;
+      padding-top: 5px;
+  }
+  .content-btn-consult{
+      width: 90%;
+      margin: 15px auto;
+  }
+  .btn-consult{
+      width: 100%;
+      height: 48px;
+      border-radius: 6px;
+      background-color: #FFCE00;
+
+  }
+  .text-btn-consul{
+      color: #001F5B;
+      font-size: 14px;
+      font-weight: 600;
+      letter-spacing: 1.25px
+  }
+  .content-payments{
+    width: 90%;
+    margin: 0px auto 0 auto;
+    padding: 0px 15px 5px;  
+  box-shadow: -2px 14px 29px 0px #00000023;
+  border-radius: 10px;
+  background-color: white;
+
+}
+.content-left{
+    float: left;
+    width: 25%;
+    border-right: solid 1px #00000033;
+    margin-top: 15px;
+    padding-right: 5px;
+    text-align: center;
+    height: 57px;
+
+}
+
+.content-right{
+    float: right;
+    width: 75%;
+    margin-top: 10px;
+    padding-left: 8px;
+    text-align: left;
+    height: 57px;
+
+
+}
+.text-primary{
+    color: #001D5F;
+    font-size: 16px;
+    letter-spacing: 0.57px;
+    font-weight: 600;
+}
+.text-secondary{
+    color: #001D5F;
+    font-size: 18px;
+    letter-spacing: 0.55px;
+}
+.text-gray{
+font-size: 16px;
+color: #818181;
+
+}
+.size-15{
+font-size: 15px;
+}
+
+.hrList{
+    display: inline-block;
+    width: 100%;
+    height: 1px;
+    background-color: #7F8EAC;
+}
+.m-cero{
+    margin-top: 0;
+}
+.m-top{
+    margin-top: 5px;
+}
+.bg-white{
+    background-color: white;
+
+}
+.content-list-pages{
+    width: 90%;
+    height: 40px;
+    margin: 20px auto 15px;
+}
+.item-list-pages{
+    display: inline-block;
+    padding: 0 2.5vw;
+}
+.text-list-pages{
+    font-size: 26px;
+    color: #001D5F;
+    letter-spacing: 0.25px;
+}
+.active-page-list{
+    width: 30px;
+    height: 30px;
+    background-color:#001D5F;
+    border-radius: 30px;
+}
+.color-yellow{
+    color: #FFCE00;
+}
+
+
+
+.content-menu-footer{
+    padding-top: 10px;
+    width: 100%;
+    background-color: white;
+  }
+  .content-item-product{
+    float: left;
+    height: 100%;
+    width: 33%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+  }
+  .content-item-arrows{
+    float: left;
+    height: 100%;
+    width: 34%;
+    display: flex;
+    align-items:flex-end;
+    justify-content: center;
+  }
+  .content-item-pay{
+    float: right;
+    height: 100%;
+    width: 33%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+  }
+  .circle-gray{
+    height:35px;
+    width: 35px;
+    background-color: #EFEFEF;
+    border-radius: 30px;
+  }
+  .icon-product{
+    margin: 4px 0 0 5px;
+  }
+  .icon-arrow{
+    margin: 7px 0 0 4px;
+  }
+  
+  .content-text-menu{
+  
+    width: 100%;
+    background-color: white;
+  }
+  .c-text-product{
+    float: left;
+    height: 100%;
+    width: 33%;
+    display: flex;
+    justify-content: center;
+  
+  }
+  .c-text-arrows{
+    float: left;
+    height: 100%;
+    width: 34%;
+    display: flex;
+    justify-content: center;
+  
+  }
+  .c-text-pay{
+    float: right;
+    height: 100%;
+    width: 33%;
+    display: flex;
+    justify-content: center;
+  }
+  .text-menu{
+    color: #001F5B;
+    font-size: 14px;
+    padding: 5px 0;
+  }
+  .b-radius-bot{
+      border-bottom-right-radius: 10px;
+      border-bottom-left-radius: 10px;
+
+  }
