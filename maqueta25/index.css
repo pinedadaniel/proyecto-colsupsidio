@@ -1,0 +1,154 @@
+.container{
+    background-color: #F7F7F7;
+  }
+  .content-payments{
+      background-color: white;
+      width: 90%;
+      border-radius: 10px;
+      margin: -50px auto 0 auto;
+      padding: 25px 0;
+      display: grid;
+    box-shadow: -2px 14px 29px 0px #00000023;
+  }
+  .content-present-item-list{
+      width: 100%;
+     
+      padding: 0 25px;
+  }
+  .tittle-present-item-list{
+      color: #001F5B;
+      font-size: 16px;
+  }
+  .icon-arrowTop{
+      float: right;
+  }
+  .hrList{
+     margin: 17px 0 20px 0;
+      width: 100%;
+      height: 1px;
+      background-color: #001F5B;
+  }
+  .hrItem{
+      width: 87%;
+      height: 1px;
+      background-color: #E4E4E4;
+    
+  
+  }
+  .hrBold{
+        width: 87%;
+      height: 1px;
+      background-color: #001F5B;
+  }
+  .content-item-list{
+      width: 100%;
+      padding: 0 25px;
+      
+  }
+  .content-icon-check{
+      float: left;
+      width: 10%;
+      height: 100%;
+  }
+  .content-info{
+   float: right;
+      width: 90%;
+      height: 100%;
+      padding-left: 5px;
+  }
+  .text-primary{
+      color: #001D5F;
+      font-size: 14px;
+      font-weight: 600;
+      letter-spacing: 0.45px;
+  }
+  .text-secondary{
+       color: #818181;
+      font-size: 14px;
+      margin-top: 20px;
+  }
+  .mt-item-list{
+      margin-top: 10px;
+  
+  }
+  .spacing-inter-element{
+      height: 10px;
+  }
+  .content-info-personal{
+      width: 100%;
+  }
+  .content-input{
+      width: 90%;
+      margin: 0 auto;
+      margin-top: 15px
+  }
+  .content-btn-left{
+      float: left;
+      width: 47%;
+  
+  }
+  .content-btn-right{
+      float: right;
+      width: 47%;
+  
+  }
+  .input-style{
+      margin-top: -5px;
+      width: 100%;
+      height: 53px;
+      border: solid 1px #123D9E;
+      border-radius: 6px;
+      padding-left: 15px;
+      background-color: white;
+      text-align: left;
+  }
+  
+  .tittle-input{
+      color: #315DC1;
+      font-size: 14px;
+      background-color: white;
+      z-index: 20;
+      position: relative;
+      width: 100%;
+      margin-left: 10px;
+      padding: 0 3px;
+  }
+  .placeholder-btn{
+      color: #00000099;
+      font-size: 1.25rem;
+  }
+  .icon-arrowBot{
+      float: right;
+      padding-right: 10px;
+  }
+  .mt-big{
+  margin-top: 25px;
+  }
+  .content-btns{
+      width: 90%;
+      margin: 20px auto 0 auto;
+      height: 150px;
+    }
+  .btn-pay{
+border-radius: 6px; 
+width: 100%;
+height: 48px;
+background-color: #FFCE00;
+
+  }
+  .btn-cancel{
+    margin-top: 15px;
+    border-radius: 6px; 
+    width: 100%;
+    height: 48px;
+    background-color:white;
+    border: solid 1px #001F5B;
+    
+      }
+  .text-btn{
+      color: #001F5B;
+      font-size: 14px;
+      letter-spacing: 1.25px;
+      font-weight: 600;
+
+  }
